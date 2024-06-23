@@ -30,11 +30,11 @@ http://localhost:5173
 
 ## UX & Theming
 
-- Vite
-- React 
-- Typescript 
-- Tailwind (utility-first CSS framework)
-- Shadcn UI
+- Vite - Used Vite for easily  creation of enviroment and initial files
+- React - because i love it!  
+- Typescript -  such as static typing, advanced tooling support etc.
+- Tailwind (utility-first CSS framework) 
+- Shadcn UI - to initally creation of common components (buttons etc...)
 
 
 ## Testing
