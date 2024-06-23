@@ -40,4 +40,7 @@ http://localhost:5173
 ## Testing
 
 - Unit & Integration testing: Vitest and testing library
-- E
+- Run unit test
+```sh
+npm test
+```
